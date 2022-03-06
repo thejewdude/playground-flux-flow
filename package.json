@@ -1,0 +1,13 @@
+{
+  "name": "flux-flow",
+  "private": true,
+  "scripts": {
+    "flow": "flow"
+  },
+  "dependencies": {
+    "flux": "^4.0.3"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.173.0"
+  }
+}
